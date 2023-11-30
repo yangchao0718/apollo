@@ -69,7 +69,7 @@
 		<javax.activation.version>1.1.1</javax.activation.version>
 		<javax.mail.version>1.6.2</javax.mail.version>
 		<javassist.version>3.23.1-GA</javassist.version>
-		<nacos-discovery-api.version>1.4.0</nacos-discovery-api.version>
+		<nacos-discovery-api.version>2.3.0</nacos-discovery-api.version>
 		<common-lang3.version>3.12.0</common-lang3.version>
 		<mysql-connector-java.version>8.0.28</mysql-connector-java.version>
 		<!-- Plugins Version -->
